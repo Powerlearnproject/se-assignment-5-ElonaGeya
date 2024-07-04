@@ -1,0 +1,111 @@
+       Visual Studio Code on Windows
+1. Downloading and installing Visual Studio Code.
+Before installing Visual Studio Code ensure that:
+-You are running your system on Windows 11.
+- You have administrator privileges to install this software.
+When the above are checked off, follow these steps:
+- Copy https://code.visualstudio.com/Download link (highlight the ctrl+c).
+- Open your preferred web browser then paste link (ctrl+v).
+- Click on windows button to get started with the download.
+- Double click on the VSCodeSetup.exe file on downloads to open it.
+- To setup, start by accepting license agreement.
+- Proceed if you are content with the destination location of your file,
+click "browse" to find where you would like to place it. 
+- Click next when the Visual Studio Code folder is created.
+- Suggestively, select all additional then proceed.
+- Install, then Visual Studio Code is good to go.
+
+2. After installing Visual Studio Code what is next is setting up your environment  
+for an optimal coding environment. Here's what to configure:
+-Extensions, these help you in integrating functionalities that help you in whatever  
+project you have undertook. Functionalities that include coding languages like Python, 
+code formatters like Prettier, productivity tools like GitLens,  web development tools that 
+span from code checkers like Code Spell Checker, to live reload development server like 
+Live Server and many more.
+- Settings, here you toggle with options that will make navigating and working on VS Code easier, 
+this will include how it will appear, configuring auto editors like auto save will produce a 
+convenience for you.
+
+3. VS Code user interface.
+The following is a display of how a VS Code screen looks like:
+c:\Users\elona geya\Pictures\Screenshots\Screenshot (13).png
+Here are the main area purposes:
+*Activity bar- allows you access to different views.
+*Side bar- it shows different views that help you as you work on project.
+*Editor group- area where you can edit your files. Here you can open as many editors as you like.
+*Status bar- has information about your open project and the editors open.
+
+4. Command Pallette.
+Command Pallette is a feature in VS Code that gives you access to all the functionalities within VS Code.
+It provides access to many commands. To access this feature you press the key combination Ctrl+Shift+P.
+Tasks you can perform using Command Pallette include but are not limited to:
+- Creating a new file.
+- Opening a new file.
+- Installing extensions.
+-Managing and configuring those extensions.
+- Opening the integrated keyboard shortcut editor.
+- Running tasks
+
+5. Extensions in VS Code.
+- Extensions are found on the Activity Bar, its icon is the windows-esque icon with bar broken off.
+To enter extensions you click on that icon or press the command Ctrl+Shift+X.
+- To install extensions, in the Extensions view, click on the search bar type the extension you desire then click install. 
+Or, you can open the Command Pallette and type the command "Extensions: Install Extensions" writing your desired extension
+after the colon.
+- To manage extensions, find installed extensions in the Extensions view, there you can uninstall, update or enable/disable
+the extension of your choice.
+- Extensions essential for web development include; Live Server, IntelliSense for CSS class names in HTML, Prettier - Code Formatter,
+ and Live Share.
+
+6. Integrated Terminal
+-To open a terminal from the menu, use the Terminal, to New Terminal, or View to Terminal commands.
+- To open a terminal from the Command Palette press the command Ctrl+Shift+P, the use the View: Toggle Terminal command.
+- To open a terminal using a keyboard shortcut use the command Ctrl+Shift+`/Ctrl+J.
+
+Advantages of an internal terminal:
+- Convenience, because both code editor and terminal are on the same window.
+- The integration of the editor with the terminal makes it that features like links and error detection are supported, thus 
+improving work flow.
+- One can customize the look of their terminal's appearance to their liking.
+
+ 7. File and Folder Management.
+File and folder navigation include creating, opening  and managing files. See below on how to do those.
+
+File creation:
+-Keyboard shortcut Ctrl + N command on windows
+- On a folder in the Explorer, right-click and select "New File". Enter filename and continue.
+
+Opening Files:
+- In the welcome page double-click a file to open it.
+- Keyboard shortcut Ctrl + P command on windows, write file name to find it.
+- Access a list of recently opened files on "File" then "Open Recent". 
+
+File and Folder Management: 
+-Keyboard Shortcuts F2 to rename, Ctrl + C to copy and "Delete" to delete.
+-In the Explorer drop and drag files/folders to move or copy them.
+- On a file/folder, right-click to and access various management options.
+
+8. Settings and Preferences.
+ Settings access:
+- Via Menu, Go to File, then Preferences then Settings.
+- On Command Palette press Ctrl + Shift + P command then type "Preferences: Open Settings".
+
+Theme change:
+- On Command Palette press Ctrl + Shift + P command then type "Preferences: Color Theme", browse and select the theme you want.
+- In settings, open Settings UI, search for Theme, under "Workbench: Color Theme" from the dropdown menu select the theme you want.
+
+Font size change:
+-In settings, search for "font size" in  search bar. Then change the Editor: Font Size setting to the value of choice.
+
+Keybindings:
+- To open go to the menu under File, to  Preferences, then to Keyboard Shortcuts or by using the command "Ctrl+K Ctrl+S".
+
+9. Debugging in VS Code
+-
+
+
+https://simpledev.io/lesson/creating-modifying-files-folders-vs-code-1/#:~:text=The%20easiest%20way%20to%20create,folder%20with%20a%20plus%20sign.
+
+ 
+
+
